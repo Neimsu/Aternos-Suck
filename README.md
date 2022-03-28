@@ -1,5 +1,3 @@
-<p align="center">Máy chủ Minecraft miễn phí với Google Colab</p>
-
 <a href="https://colab.research.google.com/github/Neimsu/Aternos-Suck/blob/main/AternosSuck.ipynb" target="_parent"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Mở với Google Colab"></a>
 
 ## :page_with_curl: Hướng Dẫn
